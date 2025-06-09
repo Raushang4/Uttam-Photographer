@@ -21,6 +21,12 @@ const nextConfig: NextConfig = {
         hostname: 'placeholder.com', // Explicitly add if placehold.co redirects or uses this
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+        port: '',
+        pathname: '/**',
       }
     ],
   },

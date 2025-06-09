@@ -16,6 +16,12 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'placeholder.com', // Explicitly add if placehold.co redirects or uses this
+        port: '',
+        pathname: '/**',
+      }
     ],
   },
 };

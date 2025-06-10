@@ -28,25 +28,25 @@ export function ContactSection() {
             <CardTitle className="text-2xl">Contact Information</CardTitle>
           </CardHeader>
           <CardContent className="space-y-6">
-            <a href="https://wa.me/911234567890" target="_blank" rel="noopener noreferrer" className="flex items-center group">
+            <a href="https://wa.me/917061077646" target="_blank" rel="noopener noreferrer" className="flex items-center group">
               <MessageSquare className="h-6 w-6 mr-3 text-primary group-hover:text-accent transition-colors" />
               <div>
                 <p className="font-semibold group-hover:text-accent transition-colors">WhatsApp</p>
-                <p className="text-sm text-muted-foreground">+91 123 456 7890</p>
+                <p className="text-sm text-muted-foreground">+91 7061077646</p>
               </div>
             </a>
-            <a href="tel:+911234567890" className="flex items-center group">
+            <a href="tel:+917061077646" className="flex items-center group">
               <Phone className="h-6 w-6 mr-3 text-primary group-hover:text-accent transition-colors" />
               <div>
                 <p className="font-semibold group-hover:text-accent transition-colors">Phone</p>
-                <p className="text-sm text-muted-foreground">+91 123 456 7890</p>
+                <p className="text-sm text-muted-foreground">+91 7061077646</p>
               </div>
             </a>
-            <a href="mailto:uttam.kumar@example.com" className="flex items-center group">
+            <a href="mailto:uttamkumar16132@gmail.com" className="flex items-center group">
               <Mail className="h-6 w-6 mr-3 text-primary group-hover:text-accent transition-colors" />
               <div>
                 <p className="font-semibold group-hover:text-accent transition-colors">Email</p>
-                <p className="text-sm text-muted-foreground">uttam.kumar@example.com</p>
+                <p className="text-sm text-muted-foreground">uttamkumar16132@gmail.com</p>
               </div>
             </a>
             <div className="flex items-center group">

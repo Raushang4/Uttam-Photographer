@@ -50,7 +50,7 @@ export function AboutSection() {
               <p className="text-muted-foreground mb-4">
                 A passionate visual storyteller, Uttam Kumar is dedicated to capturing life's most precious moments with creativity and precision. With a keen eye for detail and a commitment to excellence, Uttam transforms ordinary scenes into extraordinary memories.
               </p>
-              <p className="font-semibold">BAJMC (Bachelor of Arts in Journalism & Mass Communication)</p>
+              <p className="font-semibold">BAJMC (Bachelor of Arts in Journalism & Mass Communication) from Galgotias University</p>
               <ul className="list-disc list-inside text-muted-foreground ml-4">
                 <li>1st to 4th Year: Comprehensive studies in visual media, storytelling, and production techniques.</li>
               </ul>

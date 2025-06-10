@@ -33,7 +33,7 @@ export function Footer() {
           &copy; {currentYear} Uttam Kumar. All rights reserved.
         </p>
         <p className="text-xs mt-2">
-          Designed with <span role="img" aria-label="love">❤️</span> by an AI assistant.
+          Designed by Uttam Kumar
         </p>
       </div>
     </footer>
